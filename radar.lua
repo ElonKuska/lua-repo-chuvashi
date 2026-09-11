@@ -3,7 +3,7 @@ function update()
     local players = getPlayers()
     local screenW, screenH = getScreenSize()
     
-    -- настройки радара
+    -- настройки радара1
     local radarX = 100
     local radarY = 100
     local radarSize = 80
